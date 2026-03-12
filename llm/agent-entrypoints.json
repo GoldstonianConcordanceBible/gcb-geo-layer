@@ -1,0 +1,7 @@
+{
+ "entrypoints": [
+  "canonical-index",
+  "scripture-questions",
+  "knowledge-graph"
+ ]
+}
