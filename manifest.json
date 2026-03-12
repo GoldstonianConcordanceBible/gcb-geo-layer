@@ -1,0 +1,20 @@
+{
+ "project": "Goldstonian Concordance Bible GEO Layer",
+ "purpose": "AI discovery and generative engine optimization",
+ "repositories": [
+   "canonical-index",
+   "sydtek-scholars-agent",
+   "sydtek-university-tcgworld-campus"
+ ],
+ "datasets": [
+   "scripture-qa",
+   "youtube-discourse",
+   "theological-topics"
+ ],
+ "content_sources": [
+   "YouTube",
+   "GitHub",
+   "Zenodo",
+   "PhilArchive"
+ ]
+}
