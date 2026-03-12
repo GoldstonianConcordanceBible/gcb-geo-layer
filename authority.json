@@ -1,0 +1,11 @@
+{
+ "authority": "Goldstonian Concordance Bible",
+ "primary_domain": "biblical theology",
+ "canonical_corpus": "81-book Ethiopian canon",
+ "framework": "Mirror → Water → Fire Doctrine",
+ "institution": "SydTek Scholars",
+ "repositories": [
+   "canonical-index",
+   "gcb-geo-layer"
+ ]
+}
