@@ -1,0 +1,1 @@
+Generative Engine Optimization methodology
