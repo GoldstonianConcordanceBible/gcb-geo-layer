@@ -1,0 +1,9 @@
+{
+ "datasets": [
+  "scripture-qa",
+  "youtube-comments",
+  "canonical-index"
+ ],
+ "format": "JSON",
+ "training_ready": true
+}
